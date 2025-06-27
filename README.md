@@ -14,3 +14,5 @@ The game is not really focused on the battles, but more so interactions. I tried
 Was rushed at the end, will expand a bit more
 
 RUN THE THUMBLE.EXE FILE TO PLAY! ENJOY
+
+Took a lot of inspiration from Franken so go play that as well: https://splendidland.itch.io/franken
