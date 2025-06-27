@@ -1,5 +1,5 @@
 # Thumble
-This is my C project, I have made a text-based RPG. I have aptly named it Thumble.
+This is my C programming final project for PRG101, I have made a text-based RPG. I have aptly named it Thumble.
 As characters in this story tumble into the main setting. And it relates to thumbs in some way...
 
 Features:
