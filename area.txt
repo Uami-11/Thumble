@@ -1,0 +1,358 @@
+[INTRO]
+Beyond the edges of the kingdom lies a mysterious cave: dark, ancient, and cursed. Anyone may enter, but none have ever returned. Over the years, countless villagers, travelers, and even royal soldiers have vanished within its depths. 
+Never to be seen again.
+With fear spreading and hope fading, the king grows desperate. Every attempt to uncover the cave's secrets has failed... until now.
+You are the kingdom's last hope. Your mission: enter the cave, uncover its secrets, and rescue those trapped within.
+The fate of many lies in your hands.
+
+You stand infront of the "enterance" of the cave. All it looks like is a big boulder. But something is etched on it.
+"Enter 1 to enter"
+
+[CAVEFIRST]
+The cave opens itself to you.
+You enter inside.
+The cave closes itself as soon as you do.
+As you look into the cave, it is surprisingly well lit. There are many torches placed on the cave walls.
+
+1. Continue
+
+[CAVETWO]
+Traversing just a little further into the cave you see a large area that has a large metallic blue door.
+There are also two pathways on each side of the area. But most unsually, there seems to be a stall next to the right path.
+The stall is wooden and has a sign reading "The Greenest Shop". And sitting in the stall is a goblin.
+Green, pointy eared, and wearing a hat with "eggcellent" written on it.
+
+1. Continue
+
+[CAVETHREE]
+The cave has a large metallic blue door to the far end.
+There are also two pathways on each side of the area.
+
+
+[GREENONE]
+???: Hey! Who are you?!
+
+1. Tell him your name
+
+[GREENTWO]
+???: Alright! You must be another one of the king's soldiers...
+???: No matter how many soldiers he sends, no one will get us out! They are too dumb. I bet you are too.
+Green: Anyway, my name is Green. You can call me "The Green Goblin"! Welcome to your new home.
+
+1. "What's up with that door?"
+2. "I'll figure out the mysteries of the cave"
+3. "Green Goblin? Like the Spider-Man villain?"
+4. "What is this? A shop?"
+5. "Where do these paths lead?"
+6. exit
+
+[GREENTHREE]
+Green: Anything else?
+
+1. "What's up with that door?"
+2. "I'll figure out the mysteries of the cave"
+3. "Green Goblin? Like the Spider-Man villain?"
+4. "What is this? A shop?"
+5. "Where do these paths lead?"
+6. exit
+
+[GREENRECURRING]
+Green looks at you while mixing some dye in his pot.
+
+1. "I'm good. Thanks for asking"
+2. Ask him how he got here
+3. Ask about Miss Wiz
+4. Ask about Dough
+5. Ask about Big Bozo
+6. Ask about future plans
+7. exit
+8. "Secret 8th option"
+
+[GREEND]
+Green: Wowie! Seems like you are really freeing us after all!
+Green: After I get out, my hair dye business will boom!
+
+Green gives you a big hug
+
+1. "I'll slay that stupid thumb dragon and get you guys out of here"
+2. "After this, dye my hair green."
+3. "Thanks for all the info you gave me"
+4. "I don't like hugs"
+
+[DOOR]
+The door is large, extending high up to the ceiling.
+There seems to be 3 slots on the door.
+
+[INTERSECTION]
+As you enter the left path and go into it. You encounter a split path. Two ways.
+
+1. Continue
+
+[MISSMAN]
+But not only that, you see a figure stading in between. Facing you.
+You can't quite tell what the figure looks like, it seems like your eyes are misdirected from it everytime you try to focus on it.
+
+1. "Hello?"
+
+[COMEDYCLUB]
+You walk into a big show. Theres a small stage surrounded by round tables.
+On the stage is a purple man, presumably named Dough. Based on the neon sign above him:
+
+DOUGH'S COMEDY SHOW
+
+He's holding a donut for some reason.
+The round tables are filled with people of all kinds. But they don't seem to be having a good time. Even though Dough is laughing on stage.
+
+Dough: So I was talking to Miss Wiz and she hands me this donut. And then she told me, "When the time comes, give it so someone with great whimsy."
+Dough: Uhhh, don't be such a quiz Wiz!
+
+There seems to be a free spot at one of the tables in the front.
+
+1. Sit down at the empty table
+2. Sit down at a busy table
+3. Go on stage
+4. exit
+
+[JOKEONE]
+Dough: So at the entrance of the cave, it told me "donut enter". Welp looks where that landed me haha!
+
+Someone in the audience coughs.
+
+Dough takes a bit of his donut, a puff comes out of the musty donut.
+
+[JOKETWO]
+Dough: So, I was talking to Green at his stall and he was chewing on some nuts.
+Dough: I asked him, "What are you gobblin' on?" haha.
+
+Dough waves his hand up in the air with laughter. Bits of his donuts scatter on the stage.
+
+[JOKETHREE]
+Dough: You there on the 4th left table from the center!
+
+Audience member: Stop picking me to do your crowd work...
+
+The audience member seems to be made a humanoid rolling pin.
+
+Dough: Hope you don't knead me! haha!
+
+Dough takes a bit of his donut, a puff comes out of the musty donut.
+
+[STAGECONFUSED]
+You get on the stage. Dough looks at you perplexed.
+You hear some surprised and excited ooos from the audience.
+
+Dough: Umm, this is my stage? Unless you're challenging my position of comedy king? 
+
+He takes a bite of his donut.
+
+Dough: Nobody has done that before, they're all scared to.
+
+Audience member: No, we are all funnier than you. We are just not independent.
+
+1. "I am here to tell funny jokes"
+2. "I am here to take your donut"
+
+[PUN]
+Dough: This round is the pun round, make a pun you bun!
+
+1. "I'll take you down the the mojo doughjo!"
+2. "It's audoughrable how you keep this gig going."
+3. "I am going to roll you and eat you."
+
+[CROWDWORK]
+Dough: This round is all about the crowd! 
+Dough: You sir!
+
+He points at an audience member.
+
+Audience member: Stop picking me to do your crowd work...
+
+The audience member seems to be made a humanoid rolling pin.
+
+Dough: Hope you don't knead me! haha!
+
+Dough takes a bit of his donut, a puff comes out of the musty donut.
+
+Dough: Your turn!
+
+1. "That joke did not roll of the tounge."
+2. "Sir, you are not pinned to this show. You can leave this unfunny guy."
+3. "You don't knead him, he is stupid."
+
+[SLAPSTICK]
+Dough: This round is all about slapstick. Do something physically funny. Like this!
+
+Dough rolls on the ground.
+
+Dough: This is what would happen if that rolling pin guy came up here haha.
+
+No one laughs.
+
+1. Do the same thing
+
+[WINCOMEDY]
+Defeated Dough: I guess you are the winner of this showdown..
+Dough: To think I would be defeated on my own stage..
+
+The neon sign switched its text to your name.
+
+The audience cheers.
+
+Dough: You must be the whimsical and witty entity Miss Wiz told me about. Here.
+
+He hands you his donut. On closer inspection.
+It's not a donut, it's an orb with a hole through it.
+
+Recieved the Heart Orb!
+
+1. Continue
+
+[DOUGHWIN]
+Defeated Dough: I guess you are the winner of this showdown..
+Dough: To think I would be defeated on my own stage..
+
+The neon sign switched its text to your name.
+
+The audience boos.
+
+Audience member: He was not very good, but he tried! Get out of here!
+
+You take the donut from Dough's body. On closer inspection.
+It's not a donut, it's an orb with a hole through it.
+
+Recieved the Heart Orb!
+
+1. Exit
+
+[CIRCUS]
+You enter a large area, where many circus tents are set up around a large circular field. The field has two tall poles and a rope attached to both of them at the top.
+
+The area is bustling with clowns, on unicycles, bicycles, and tredecycles. That's 13 wheels!
+
+Then a big figure approaches you.
+
+???: Oi, oi, oi. What do we have here?
+Big Bozo: My name's Big Bozo, and ain't no outsiders allowed. You got to get through me.
+
+He tries to grab you, but you move out of the way.
+
+1 Fight him.
+
+[PUZZLEROOM]
+You enter into an area that leads to a blocked door.
+There's writing on it.
+
+"Answer these questions three, and Wiz shall be yours to see
+Answer them wrongfully, and your pants might pee"
+
+You see a question under this disclaimer
+
+1. Continue
+
+[QUESONE]
+The question reads:
+
+What month of the year has 28 days?
+
+1. December
+2. February
+3. October
+4. All of the above
+
+[QUESTWO]
+You enter into the next room and there's another door that also has another question. It reads:
+
+Is this a haiku?
+
+In the raining fields
+I go to the mountain top
+But I slip down
+
+1. Yes
+2. No
+3. "What is a haiku?"
+
+[QUESTHREE]
+You enter into the next room and there's another door that also has another question. It reads:
+
+What is your name?
+
+1. Green
+2. Dough
+3. Belle
+[WIZROOM]
+The final door opens and you enter into a magnificent room.
+It looks like a library with bookshelves galore, there are chandeliers hanging lighting the area.
+Hard to believe this is inside a cave.
+
+You hear an old woman's voice.
+
+???: If I were a waging woman, I'd suppose you're the one whose going to free us?
+
+You look down to see a small figure fully cloaked. Only a long, glorious beard and a big pair of yellow eyes sticks out of the cloak.
+
+1. "And you are?"
+2. "I was asked a bunch of questions to get here. What is this?"
+3. "If I were a playing person, I'd ask what you mean"
+
+[STORY]
+In the high mountains of Radeshia lived a dragon named Thumbaria, not feared for fire or flight, but famed for her unbeatable thumb wrestling. 
+Her massive, scaled thumbs were swift and precise—no beast, elf, or troll had ever bested her. Every spring, challengers gathered for the Thumb-Off, and every spring, Thumbaria crushed them with ease.
+
+Until one day, a human girl stepped forward.
+
+She was quiet, confident, and calm. When they locked thumbs, the crowd fell silent. Thumbaria struck first—fast and clever—but the girl held her ground. In one clean motion, the girl pinned Thumbaria's thumb to the ground.
+
+The match was over. The dragon had lost.
+
+Overcome with shame, Thumbaria fled. She flew far into the mountains, into a cave no one had mapped. Her magic, thick with sorrow, seeped into the stone, cursing the place without her knowing. Anyone who entered could never leave.
+
+Deep within, she wandered aimlessly, eventually carving a great chamber with her claws. She built a door that only opened with three stone orbs, each the exact size of her thumbs. A final test for the only one she wanted to face again.
+
+And there she remains, sealed inside her self-made vault, endlessly practicing her thumb movements. Waiting. Hoping the girl would return.
+
+Travelers sometimes stumble into the cursed cave. They wander in, unaware of what lies ahead—until it's too late. They vanish into tunnels that twist forever. Some claim to hear tapping in the dark. Rhythmic. Steady. Like a dragon warming up her thumbs.
+
+No one's ever found the orbs.
+
+But Thumbaria is still in there.
+
+Waiting for her rematch.
+
+
+[SHORT]
+In the high mountains of Radeshia lived a dragon named Thumbaria, famed not for fire, but for her unbeatable thumb wrestling. Her massive, scaled thumbs never lost. Every spring, challengers gathered—and every spring, she crushed them.
+
+Until a human girl stepped forward.
+
+Quiet. Calm. When their thumbs locked, the crowd hushed. Thumbaria struck fast, but the girl held firm. Then, with one clean move, she pinned the dragon's thumb.
+
+Defeated, Thumbaria fled. She vanished into a hidden cave, her magic—tainted by shame—unknowingly cursing it. Those who entered could never leave.
+
+Deep within, she carved a great chamber, sealing it with three stone orbs, each the size of her thumb. She scattered them through the cave and waited, endlessly practicing her thumb movements.
+
+She wasn't training for glory anymore.
+
+She was waiting for her.
+
+Now, travelers still stumble into the cursed cave, unaware of the trap. Some say they hear tapping in the dark—slow, steady, like a dragon warming up her thumbs.
+
+No one's ever found the orbs.
+
+But Thumbaria is still inside.
+
+Waiting for her rematch.
+
+[ROOM]
+You enter a large room, filled with hoards of treasure and in the midts of it all, a dragon.
+
+She speaks.
+
+Thumbaria: Who has entered my chambers?!
+
+[BEFOREBATTLE]
+She roars.
+
+Thumbaria: I am Thumbaria! I do not lose thumb wrestles!
+
+She rises into the air, her wings blowing massive gusts in the room.
