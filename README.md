@@ -14,5 +14,7 @@ The game is not really focused on the battles, but more so interactions. I tried
 Was rushed at the end, will expand a bit more
 
 RUN THE THUMBLE.EXE FILE TO PLAY! ENJOY
+or compile it like this using GCC:
+gcc main.c functions.c utils.c -o Thumble
 
 Took a lot of inspiration from Franken so go play that as well: https://splendidland.itch.io/franken
