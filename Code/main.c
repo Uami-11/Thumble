@@ -577,7 +577,7 @@ int main()
                 printf("\n\nWrong! It is important to know aspects of literature! Don't pee your pants, because to move to the next room you'll have to defeat...\n\nYou hear a snapping noise behind you.\nYou turn to see a Blue Crab lunging at you.\n\n1. Fight it\n");
                 ChoiceInput(1);
                 Sleeps(200);
-                BattleMode(HealthPointer, PlayerHealth - 1, PlayerPower, 2, PlayerName, "Blue Crab");
+                BattleMode(HealthPointer, 2, PlayerPower, 2, PlayerName, "Blue Crab");
                 LevelUp(&PlayerHealthMax);
                 printf("\nAfter defeating the crab, the door opens.\n\n1. Go inside\n");
                 Heal(PlayerHealthMax, HealthPointer);
@@ -598,7 +598,7 @@ int main()
                 printf("\n\nWrong! You should learn to be honest! Don't pee your pants, because to move to the next room you'll have to defeat...\n\nYou hear a growling noise behind you.\nYou turn to see a Orange Bear lunging at you.\n\n1. Fight it\n");
                 ChoiceInput(1);
                 Sleeps(200);
-                BattleMode(HealthPointer, PlayerHealth - 2, PlayerPower, 2, PlayerName, "Orange Bear");
+                BattleMode(HealthPointer, 2, PlayerPower, 2, PlayerName, "Orange Bear");
                 LevelUp(&PlayerHealthMax);
                 printf("\nAfter defeating the bear, the door opens.\n\n1. Go inside\n");
                 Heal(PlayerHealthMax, HealthPointer);
