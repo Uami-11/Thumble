@@ -12,3 +12,5 @@ You could finish this game in about 10 minutes. For the best experience, I'd say
 The game is not really focused on the battles, but more so interactions. I tried to be really funny
 
 Was rushed at the end, will expand a bit more
+
+RUN THE THUMBLE.EXE FILE TO PLAY! ENJOY
